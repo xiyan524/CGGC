@@ -37,5 +37,22 @@ sbatch run-main.sh --max_batch_size batch_size --icl_num --model_name model_name
 
 
 ## Citations
-to appear
+```
+@inproceedings{fu-frank-2024-mystery,
+    title = "The Mystery of Compositional Generalization in Graph-based Generative Commonsense Reasoning",
+    author = "Fu, Xiyan  and
+      Frank, Anette",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.492/",
+    doi = "10.18653/v1/2024.findings-emnlp.492",
+    pages = "8376--8394"
+}
+```
 
