@@ -1,5 +1,5 @@
 # The Mystery of Compositional Generalization in Graph-based Generative Commonsense Reasoning
-Code and Data for the EMNLP Findings 2024 paper (to appear)
+Code and Data for the EMNLP Findings 2024 paper
 
 ![image](https://github.com/xiyan524/CGGC/blob/main/intro.png)
 An instance of Compositional Generalization in Graph-based Commonsense Reasoning (CGGC). A model is expected to solve a test sample (b, composition) that presents an input graph with an unseen combination of relation types (here: *HasA&AtLocation*). The ICL demonstrations of the task in (a), by contrast, show each relation primitive in combination with other relation types, here: *HasA&UsedFor* and *AtLocation&UsedFor*.
